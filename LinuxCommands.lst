@@ -50,7 +50,8 @@ chmod 777 /tmp/FILE_NAME
 df -h
 df -i  
 
-#  Command
+#---------Command-----------
+
 opkg update
 opkg upgrade
 opkg update && opkg upgrade
@@ -69,7 +70,7 @@ opkg remove enigma2-plugin-extensions-ipaudio
 
 #------------Plugins--------------
 
-#keyadder_softcamfedds
+#keyadder_softcamfedds(ismail9875)
 wget https://raw.githubusercontent.com/karimSATPRO/AddKey/main/installer.sh -O - | /bin/sh
 # novalertv:
 wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/NovalerTV/installer.py -qO - | python
