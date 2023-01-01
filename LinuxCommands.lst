@@ -88,7 +88,7 @@ wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/IPtoSAT/install
 wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/E2IPLAYER_TSiplayer/installer.sh -qO - | /bin/sh
 # suptv: 
 wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/Suptv/installer.sh -qO - | /bin/sh
-# multi_stalker: 
+# multi_stalker_v1.4: 
 wget -q "--no-check-certificate" http://ipkinstall.ath.cx/ipk-install/Multi-Stalker/MultiStalker.sh  -O - | /bin/sh
 # raedquicksignal: 
 wget https://raw.githubusercontent.com/fairbird/RaedQuickSignal/main/installer.sh  -qO - | /bin/sh
