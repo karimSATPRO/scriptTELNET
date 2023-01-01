@@ -89,7 +89,7 @@ wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/E2IPLAYER_TSipl
 # suptv: 
 wget https://raw.githubusercontent.com/MOHAMED19OS/Download/main/Suptv/installer.sh -qO - | /bin/sh
 # multi_stalker: 
-wget https://raw.githubusercontent.com/ziko-ZR1/Multi-Stalker-install/main/Downloads/installer.sh -qO - | /bin/sh
+wget -q "--no-check-certificate" http://ipkinstall.ath.cx/ipk-install/Multi-Stalker/MultiStalker.sh  -O - | /bin/sh
 # raedquicksignal: 
 wget https://raw.githubusercontent.com/fairbird/RaedQuickSignal/main/installer.sh  -qO - | /bin/sh
 # ipaudio: 
